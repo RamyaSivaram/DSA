@@ -1,0 +1,5 @@
+Height of complete binary tree or heap H= log N, N- no of nodes
+Convert max heap to min heap
+Convert min Heap to max Heap
+Check if a Binary Tree is a Min Heap
+Check if a Binary Tree is a Max Heap
